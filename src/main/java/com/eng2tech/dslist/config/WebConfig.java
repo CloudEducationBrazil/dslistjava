@@ -31,4 +31,5 @@ public class WebConfig {
 	            .inMemoryAuthentication()
 	                .withUser("user").password("password").roles("USER");
 	    }
-	}*/}
+	}*/
+}
